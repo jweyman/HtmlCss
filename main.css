@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+     * {
+        box-sizing: border-box;
+    }
+    
+    .container {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+    
+    .box {
+        color: darkslateblue;
+        font-size: 25px;
+        font-family: 'Noto Sans', sans-serif;
+        text-align: left;
+        padding: 25px;
+  
+}
+
+
+
+h1 {font-family: 'Permanent Marker', cursive;
+text-align: center;
+color: slateblue;
+font-size: 400%;
+}
+
+p {font-family: 'Noto Sans', sans-serif;
+color: midnightblue;
+
+}
+body {
+    background-image: url(summer9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
