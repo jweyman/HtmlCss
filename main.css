@@ -12,27 +12,38 @@
         flex-direction: column;
     }
     
-    .box {
+.box {
         color: darkslateblue;
         font-size: 25px;
         font-family: 'Noto Sans', sans-serif;
         text-align: left;
         padding: 25px;
-  
-}
+     }
+ .box1 {
+            color: darkslateblue;
+            font-size: 25px;
+            font-family: 'Noto Sans', sans-serif;
+            text-align: center;
+            padding: 25px;
+        
+        }
+        .box2 {
+            color: darkslateblue;
+            font-size: 25px;
+            font-family: 'Permanent Marker', cursive;
+            text-align: center;
+            padding: 25px;
+        }      
+        .box3 {
+            color: darkslateblue;
+            font-size: 25px;
+            font-family: 'Noto Sans', sans-serif;
+            text-align: left;
+            padding: 25px }  
 
 
 
-h1 {font-family: 'Permanent Marker', cursive;
-text-align: center;
-color: slateblue;
-font-size: 400%;
-}
 
-p {font-family: 'Noto Sans', sans-serif;
-color: midnightblue;
-
-}
 body {
     background-image: url(summer9.jpg);
     background-repeat: no-repeat;
